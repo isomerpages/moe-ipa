@@ -9,6 +9,10 @@ sections:
   - hero:
       title: ITE Progression Award
       background: /images/hero-banner.png
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: What is the ITE Progression Award?
       id: infopic
