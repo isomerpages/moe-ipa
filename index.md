@@ -14,4 +14,9 @@ sections:
       id: infopic
       description: Infopic description
       alt: Image alt text
+  - infopic:
+      title: Who is the IPA for?
+      id: infopic
+      description: Infopic description
+      alt: Image alt text
 ---
